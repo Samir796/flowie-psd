@@ -1,0 +1,187 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+a{
+    text-decoration: none !important;
+}
+/* bg-color */
+.bg-color-2b2b2b{
+    background-color: #2b2b2b;
+}
+.bg-color-b8c2c1{
+    background-color: #b8c2c1;
+}
+.bg-color-d9de55{
+    background-color: #d9de55;
+}
+.bg-color-dddddd{
+    background-color: #dddddd;
+}
+.bg-color-f1f1f1{
+    background-color: #f1f1f1;
+}
+.bg-color-fff{
+    background-color: #fff;
+}
+
+
+/* color */
+.clr-8f8f8f{
+    color: #8f8f8f !important;
+}
+.clr-2b2b2b{
+    color: #2b2b2b !important;
+}
+.clr-fff{
+    color: #fff !important;
+}
+.clr-858585{
+    color: #858585 !important;
+}
+.clr-949494{
+    color: #949494 !important;
+}
+.clr-787878{
+    color: #787878 !important;
+}
+.clr-c2c2c2{
+    color: #c2c2c2 !important;
+}
+.clr-c0c0c0{
+    color: #c0c0c0 !important;
+}
+.clr-cccccc{
+    color: #cccccc !important;
+}
+.clr-80a05d{
+    color: #80a05d !important;
+}
+.clr-d1d1d1{
+    color: #d1d1d1 !important;
+}
+
+
+/* font */
+.fw-400{
+    font-weight: 400;
+}
+.fw-500{
+    font-weight: 500;
+}
+.fw-700{
+    font-weight: 700;
+}
+
+
+.list{
+    display: flex;
+    list-style-type: none;
+}
+
+.menu-bar{
+    border-top: 1px solid #efefef;
+    width: 100%;
+}
+/* Font family */
+.ff-yellowtail{
+    font-family: 'Yellowtail', cursive;
+    
+}
+.ff-dancingscript{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+
+.featured-items{
+    color: #c2c2c2;
+}
+.featured-items:hover{
+    color: #80a05d;
+    transition: all 1s ease 0s;
+}
+
+.img-txt{
+    color: #2b2b2b;
+}
+.img-txt:hover{
+    color: #80a05d;
+    transition: all 1s ease 0s;
+}
+
+.bg-add-to-cart{
+    color: #3b3b3b;
+    background-color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+}
+.bg-add-to-cart:hover{
+    color: #fff;
+    background: #80a05d;
+}
+.obj-fit{
+    object-fit: cover;
+}
+.border-card{
+    border: 3px solid #fff;
+    width: 100%;
+}
+
+.bg-logo{
+    background: url("../img/Logo-2.png");
+    width: 100%;
+}
+
+.border-add{
+    border: 2px solid #f1f1f1;
+}
+
+.round-play{
+    position: relative;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background-color: #d9de55;
+    height: 125px;
+    width: 125px;
+}
+.play-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.img-ground{
+    border: none;
+    background: #dddddd;
+    height: 260px;
+    width: 100%;
+}
+.bg-12{
+    background: url("../img/12.png") no-repeat;
+    position: relative;
+    height: 106px;
+    width: 100%;
+    
+}
+.bg-23{
+    background: url("../img/23.png") no-repeat;
+    position: relative;
+    height: 110px;
+    width: 100%;
+    
+}
+.position-align-absolute{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.border-bottom{
+    border-bottom: 2px solid #303030 !important;
+    width: 100%;
+    
+}
