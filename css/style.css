@@ -155,7 +155,7 @@ a{
 .img-ground{
     border: none;
     background: #dddddd;
-    height: 260px;
+    height: 245px;
     width: 100%;
 }
 .bg-12{
@@ -184,4 +184,12 @@ a{
     border-bottom: 2px solid #303030 !important;
     width: 100%;
     
+}
+.bg-img-plant-hero{
+    background: url('../img/plant_hero.jpeg') center center no-repeat;
+    background-size: cover;
+}
+.bg-img-plants-wide{
+    background: url('../img/plants_wide.jpeg') center center no-repeat;
+    background-size: cover;
 }
